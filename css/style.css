@@ -1,0 +1,36 @@
+body{
+   background-color: white;
+}
+
+[class*="col-"], .col{
+   color: white;
+   border: 1px solid white;
+   background-color: blue;
+   min-height: 50px;
+}
+.row{
+
+   border: 1px solid white;
+}
+
+.p-1{
+   padding: 10px;
+}
+.p-3{
+   padding: 30px;
+}
+
+.bg-green{
+   background-color: green;
+}
+
+.pt-1{
+   padding-top: 10px;
+}
+
+[class*="col-offset-"]{
+   background-color: white;
+   border: none;
+}
+
+
